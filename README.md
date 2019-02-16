@@ -1,17 +1,14 @@
-extract_GC_FID_data
+# extract_GC_FID_data
 
-Python script written to extract compound(s) of interest from the GC-FID data file
+This python script can be used to extract compound(s) of interest from the GC-FID data file
 
 
-# This script was used to extract compounds of interest from GC-FID.
+### how to copy data file from GC-FID connected computer?
 
-### how to copy data file from GC-FID connected computer? ###
+1. Copy all the data files in simple text format (not in word document).
+2. Make sure your datafile name has replication, treatment name and time/date of VOC collection and each information separated by underscore (eg. 1_ctrl_04hr)
 
-# Copy all the data files in simple text format (not in word document).
-# make sure your datafile name has replication, treatment name and time/date of VOC collection 
-# and separate each word in the file name by underscore (eg. 1_ctrl_04hr)
-
-### How to run this script in your computer? ###
+### How to run this script in your computer? 
 1. clone or download python script and save it in your working directory
 2. open bash shell
 
