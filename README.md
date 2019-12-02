@@ -4,7 +4,7 @@
 This python script can be used to extract compound(s) of interest from the GC-FID data file
 Note: if you use this script in your project, please cite this as 
 
-Paudel Timilsena B, Seild-Adams I, Tumlinson JH . 2019. Herbivore-specific plant volatiles prime neighboring plants for non-specific defense responses. Paper submitted at New Phytologist.
+Paudel Timilsena B, Seild-Adams I, Tumlinson JH . 2019. Herbivore-specific plant volatiles prime neighboring plants for non-specific defense responses. Plant Cell & Environment. https://doi.org/10.1111/pce.13688
 
 
 ### how to copy data file from GC-FID connected computer?
